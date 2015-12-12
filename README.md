@@ -1,4 +1,4 @@
 openosvita.org
 ==============
-
-test repository for openosvita.org projects
+hello!
+it is  test repository for openosvita.org projects
